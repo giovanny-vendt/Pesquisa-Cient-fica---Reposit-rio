@@ -34,11 +34,22 @@ Síntese de discussão e conclusões:
 > ***Palavras concisas***
 > 
 >  Esse item é intrinsecamente dependente da língua utilizada para a escrita; o domínio vocabular é essencial para o uso de termos adequados e abrangentes. 
->  Para serem concisos, o escritores devem escolher poucas palavras, mas completas de sentido e coerentes ao uso, terminologia correta e vocabulário especializado da área de pesquisa que seu texto está. Também deve-se evitar termos redundantes ou hiperbólicos, que trazem subjetividade ao texto e tiram a atenção do leitor
+>  Para serem concisos, o escritores devem escolher poucas palavras, completas de sentido e coerentes ao uso, terminologia correta e vocabulário especializado da área de pesquisa que seu texto está. Também deve-se evitar termos redundantes ou hiperbólicos, que trazem subjetividade ao texto e tiram a atenção do leitor
 >
 > **Sentenças claras**
 > 
+> A clareza das frases determina a legibilidade e compreensão do artigo. Para desenvolver frase claras, foque em apenas um tópico e reduza redundância. Evite o uso de termos que fragmentem sua frase; peguemos de exemplo um trecho escrito anteriormente nesse fichamento como exemplo e sua reescrita:
+
+
+> [!example] correção de frase
 > 
+> ***frase original***: "Para serem concisos, o escritores devem escolher poucas palavras, completas de sentido e coerentes ao uso, terminologia correta e vocabulário especializado da área de pesquisa que seu texto está."
+> 
+> ***Frase modificada***: "Os escritores devem escolher poucas palavras completas de sentido, coerentes e específicas visando a coesão. A terminologia correta e vocabulário especializado do segmento científico do qual seu texto faz parte corroboram à escrita concisa."
+> 
+
+> Repare que não corrigirei no texto original do fichamento. Por que? pelo fato de que o intuito da frase modificada é ser específica para um contexto de escrita formal. A frase original está imbuída de apostos, orações subordinadas, termos em ordem inversa... Esse é meu estilo de escrita quando desenvolvendo uma ideia geral pois simula a forma falada. 
+> Agora, na escrita científica... não tenha dúvidas, a segunda forma é 100
 
 
 Informações adicionais
