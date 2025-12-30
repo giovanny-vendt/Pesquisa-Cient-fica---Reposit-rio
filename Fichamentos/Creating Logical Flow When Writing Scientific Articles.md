@@ -63,13 +63,34 @@ Síntese de discussão e conclusões:
 
 ![[Pasted image 20251230103511.png]]
 
-> É importante lembrar que conectar parágrafos também é de suma importância. Parágrafos de uma mesma secção deveriam idealmente estarem conectados integra
+> É importante lembrar que conectar parágrafos também é de suma importância. Parágrafos de uma mesma secção deveriam idealmente estarem conectados integralmente, através de termos conectivos e transitórios. Visualize o exemplo no neste [link](![[Creating Logical Flow When Writing.pdf#page=7&rect=190,73,556,651|Creating Logical Flow When Writing, p.7]])
+> 
+> ******
+> 
+> Seguindo a ordem de unidades menores para as maiores, podemos discutir também as secções do texto.
+> De maneira geral, um artigo científico tem a estrutura básica: **introdução**, **metodologia**, **resultados** e **discussão**. Em outros fichamentos, discutimos também sobre essas estruturas e recomendações; visite depois os fichamentos [[A guide to backward paper writing for the data sciences]].
+> Cada uma dessas secções possuem sua função dentro do artigo científico: a *introdução* determina o problema, conhecimento atual sobre o problema e as lacunas que existem, assim como se posicionar sobre qual lacuna irá responder; a *metodologia* prove informações sobre o que será necessário para replicar a análise realizada com o mesmo conjunto de informações, tal como um "passo a passo"; os resultados dispõe, obviamente, dos frutos da metodologia usada e declara-os, seja em forma de figuras, tabelas ou texto corrido, ou um pouco de todos; a *discussão* é a parte opinativa da coisa, onde os pesquisadores irão argumentar sobre os achados e interpretá-los de acordo com a literatura já descrita
+> O artigo recomenda o uso de seis parágrafos para a discussão:
 
-Informações adicionais
+> [!PDF|important]- [[Creating Logical Flow When Writing.pdf#page=10&selection=85,0,134,1&color=important| Os 6 parágrafos da discussão]]
+> > The discussion section is the keystone of a scientific article. Write the discussion section with precision, brevity and without ambiguity. Unify ideas to clearly communicate the main message of the study. Observe brevity but do not sacrifice logic and clarity. To achieve logical flow, aim to write the discussion in four to six paragraphs.
+> > 
+> >  In the first paragraph, briefly restate what the study's purpose or objectives are. Then, highlight the key results with a focus on how these met the study's aims.
+> >  
+> >  In the second, third, and fourth paragraphs, contextualize each key result with the relevant literature in separate paragraphs. When interpreting key results, emphasize their uniqueness, usefulness, and relevance. Then, expand the interpretation by assessing what can be achieved now with these new data or what gap in previous knowledge could be filled.Finally, frame the results by describing how the study adds to the literature. Follow the same order of the methods and results when discussing each key result.
+> >  
+> >  In the fifth paragraph, state the limitations in the methodology, results, or manuscript organization. Then, list the strengths and weaknesses of the study. Finally, describe the needs and offer perspectives for future studies.7
+> >  
+> > In the sixth paragraph, state the conclusions and implications of the study. Then, provide recommendations for further research into the remaining gaps. Finally, make suggestions regarding the changes needed.
+> 
+> 
 
->
+> O artigo não argumenta sobre um segmento separado para a conclusão, entretanto, a coloca como segmento da "discussão"
 
 
-Referência ABNT:
+Referência ABNT: BARROGA, E.; MATANGUIHAN, G. J. Creating Logical Flow When Writing Scientific Articles. **Journal of Korean Medical Science**, v. 36, n. 40, 2021.
 
-Referência Vancouver:
+
+Referência Vancouver: Barroga E, Matanguihan GJ. Creating Logical Flow When Writing Scientific Articles. Journal of Korean Medical Science [Internet]. 2021;36(40). Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8524230/
+
+‌
