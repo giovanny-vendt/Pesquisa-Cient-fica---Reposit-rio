@@ -39,8 +39,10 @@ Síntese de discussão e conclusões:
 > 3) **População amostral**: definir o conjunto de dados ou conjunto de itens/indivíduos a serem estudados garante uma metodologia adequada. Características como características demográficas, número geral e sua saúde geral, grupo controle, para pesquisas na área médica, são exemplos de descrição desse conjunto.
 > 4) **Equipamento e outros materiais**: a demonstração dos materiais utilizados, principalmente em ensaios clínicos, é base para a replicabilidade do seu estudo e, consequentemente, validade.
 > 5) **Procedimentos**: juntamente ao design do estudo, é núcleo para basicamente qualquer tipo de artigo; aqui mora o "passo a passo" já descrito, em ordem cronológica e justificativa, medidas e dados a serem coletados.
-> 6) **Análise estatística**: normalmente a última parte da metodologia, envolve a descrição de como os dados e informações coletadas através dos passos anteriores serão interpretados e analisados. Inclui métodos estatísticos, ferramentas de análise qualitativas e critérios de avaliação
-> 7) 
+> 6) **Análise estatística**: normalmente a última parte da metodologia, envolve a descrição de como os dados e informações coletadas através dos passos anteriores serão interpretados e analisados. Inclui métodos estatísticos, ferramentas de análise qualitativas e critérios de avaliação.
+> 
+> Descrições detalhadas sobre cada procedimento estão neste [link](![[How to Write the Methods Section of a Research Manuscript.pdf#page=7&rect=30,55,296,718&color=red|How to Write the Methods Section of a Research Manuscript, p.1769]])
+
 
 Informações adicionais
 
