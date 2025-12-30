@@ -19,25 +19,19 @@ Objetivos:
 
 > [!PDF|red] [[How to Write the Methods Section of a Research Manuscript.pdf#page=2&selection=32,0,35,20&color=red|How to Write the Methods Section of a Research Manuscript, p.1764]]
 > > The purpose of this paper is to describe the different components of the methods section and provide guidance for writing the methods section of a research paper.
-> 
-> 
 
->
-
-
-Metodologia:
-
->
-
-
-Resultados:
-
->
 
 
 Síntese de discussão e conclusões:
 
->
+> Uma metodologia inadequada significa, no fim das contas, um trabalho inadequado. Em artigo científico, onde o propósito é o registro e transmissão de conhecimento adquirido cientificamente, a metodologia é foco central, e uma secção de métodos má escrita é a ruína de seu texto. 
+> Similarmente à uma receita, a metodologia de um trabalho é o "passo a passo" necessário para replicar um prato (resultado) através de um mesmo conjunto de ingredientes (dados e informações). cada receita, ou metodologia se quiser fugir da analogia, possui ingredientes específicos ou em comum com outras receitas, dependendo do tipo de prato ou sabor que você quer possuir ao final do cozimento. 
+> Algumas das etapas comumente encontradas em métodos aquém o tipo de artigo/estudo a ser produzido são:
+> 1) **Study design**: ou estrutura do estudo, já foi referenciado em outros fichamentos, como [[A guide to backward paper writing for the data sciences]] e [[Creating Logical Flow When Writing Scientific Articles]]; basicamente, é a descrição geral da metodologia aplicada e seu atributos, incluindo o tipo de estudo, configurações, período de tempo e procedimentos, tal como um mapa ou fotografia da trilha que você está prestes a entrar
+
+> [!Summary]- **Dos Tipos e Características dos estudos**
+> 
+> - *Tipos de estudo*: observacional, estudos de base   
 
 
 Informações adicionais
