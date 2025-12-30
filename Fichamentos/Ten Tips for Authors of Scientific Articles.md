@@ -11,20 +11,6 @@ keywords: [[Escrita científica]], [[comunicação científica]], [[publicação
 
 ******
 
-Objetivos:
-
->
-
-
-Metodologia:
-
->
-
-
-Resultados:
-
->
-
 
 Síntese de discussão e conclusões:
 
