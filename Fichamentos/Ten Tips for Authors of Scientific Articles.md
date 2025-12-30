@@ -14,7 +14,7 @@ keywords: [[Escrita científica]], [[comunicação científica]], [[publicação
 
 Síntese de discussão e conclusões:
 
-> 1) 
+> 1) **Design do artigo**: 
 
 
 Informações adicionais
