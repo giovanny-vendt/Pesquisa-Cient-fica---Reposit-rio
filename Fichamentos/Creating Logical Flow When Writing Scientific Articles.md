@@ -48,9 +48,22 @@ Síntese de discussão e conclusões:
 > ***Frase modificada***: "Os escritores devem escolher poucas palavras completas de sentido, coerentes e específicas visando a coesão. A terminologia correta e vocabulário especializado do segmento científico do qual seu texto faz parte corroboram à escrita concisa."
 > 
 
-> Repare que não corrigirei no texto original do fichamento. Por que? pelo fato de que o intuito da frase modificada é ser específica para um contexto de escrita formal. A frase original está imbuída de apostos, orações subordinadas, termos em ordem inversa... Esse é meu estilo de escrita quando desenvolvendo uma ideia geral pois simula a forma falada. 
-> Agora, na escrita científica... não tenha dúvidas, a segunda forma é 100
+> Repare que não corrigirei no texto original do fichamento. Por que? pelo fato de que o intuito da frase modificada é ser específica para um contexto de escrita formal. A frase original está imbuída de apostos, orações subordinadas, termos em ordem inversa... Esse é meu estilo de escrita quando desenvolvendo uma ideia geral pois simula a forma falada. Agora, na escrita científica... não tenha dúvidas, a segunda forma é muito melhor!
+> Além da ordenação adequada das sentenças, evite adjetivos e advérbios, uma vez que flertam com a subjetividade, e orações começando com pronomes demonstrativos e interrogativos ("esse", "aquele", "quem"...)
+> Outra dica interessante é varia o tamanho, tipo e "iniciador" de suas frases, além de conecta-las continuamente.
+> 
+> ***Parágrafos bem estruturados***
+> 
+> O pré-requisito para a construção de bons parágrafos está na determinação de uma ideia central e a garantia de coerência, unidade e argumentação dessa unidade.
+> A **primeira frase** de um parágrafo quase sempre deve ser a *frase de tópico*, ou seja, introduz a principal ideia do parágrafo e dá dicas do que será discutido, a qual será desenvolvida nas próximas. 
+> As **frases do meio** são as que de fato irão discorrer sobre a ideia do parágrafo, através de explicações, definições, comentários, evidências e exemplos.
+> A **última frase** sintetiza as informações das *frases do meio* e enfatiza novamente a ideia principal, abrindo margem para um próximo parágrafo capturar essas conclusões e desenvolver novos argumentos
+> Quando desenvolvendo um parágrafo, parte importante a se preocupar é o tamanho das frase. Uma média de palavras por frase interessante a se mirar é de 20 palavras.  
 
+
+![[Pasted image 20251230103511.png]]
+
+> É importante lembrar que conectar parágrafos também é de suma importância. Parágrafos de uma mesma secção deveriam idealmente estarem conectados integra
 
 Informações adicionais
 
