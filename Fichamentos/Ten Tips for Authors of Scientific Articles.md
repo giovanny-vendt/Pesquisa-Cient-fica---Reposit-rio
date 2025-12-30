@@ -14,12 +14,12 @@ keywords: [[Escrita científica]], [[comunicação científica]], [[publicação
 
 Síntese de discussão e conclusões:
 
-> 1) **Design do artigo**: 
+> 1) **Design do artigo**: a primeira versão de um artigo deve conter um *design* e e uma estrutura bem definidos
 
 
 Informações adicionais
 
->
+> Procure pelas convenções de escrita do "Committee of Medical Journal Editors" (ICMJE), The European Association of Science (EASE) guidelines, American MEdical Associacion (AMA) manual 
 
 
 Referência ABNT:
