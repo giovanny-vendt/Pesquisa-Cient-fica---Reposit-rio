@@ -1,12 +1,12 @@
 
 
-**Nome do artigo** - local e data de publicação (DOI); informações adicionais
+**Ten Tips for Authors of Scientific Articles** - Journal of Korean Medicine Science (http://dx.doi.org/10.3346/jkms.2014.29.8.1035)
 
-Autores: 
+Autores: Sung-Tae Hong
 
-Tipo:
+Tipo: Artigo de opinião / artigo especial
 
-keywords:
+keywords: [[Escrita científica]], [[comunicação científica]], [[publicação]], 
 
 
 ******
