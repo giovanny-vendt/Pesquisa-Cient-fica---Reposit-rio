@@ -31,12 +31,20 @@ Síntese de discussão e conclusões:
 
 > [!Summary]- **Dos Tipos e Características dos estudos**
 > 
-> - *Tipos de estudo*: observacional, estudos de base   
+> - *Tipos de design de estudo*: observacional, estudos de base, ensaios clínico randomizados, questionários...
+> - *Configurações*: uni-central ou multicentral
+> - *Período de tempo*: estudo horizontal, estudo longitudinal, 
 
+> 2) **Declarações éticas**: esse item é essencial em estudos que tenham o ser humano como objeto de estudo direto. 
+> 3) **População amostral**: definir o conjunto de dados ou conjunto de itens/indivíduos a serem estudados garante uma metodologia adequada. Características como características demográficas, número geral e sua saúde geral, grupo controle, para pesquisas na área médica, são exemplos de descrição desse conjunto.
+> 4) **Equipamento e outros materiais**: a demonstração dos materiais utilizados, principalmente em ensaios clínicos, é base para a replicabilidade do seu estudo e, consequentemente, validade.
+> 5) **Procedimentos**: juntamente ao design do estudo, é núcleo para basicamente qualquer tipo de artigo; aqui mora o "passo a passo" já descrito, em ordem cronológica e justificativa, medidas e dados a serem coletados.
+> 6) **Análise estatística**: normalmente a última parte da metodologia, envolve a descrição de como os dados e informações coletadas através dos passos anteriores serão interpretados e analisados. Inclui métodos estatísticos, ferramentas de análise qualitativas e critérios de avaliação
+> 7) 
 
 Informações adicionais
 
->
+> Pesquise por Consolidated Standards of Reporting Trials (CONSORT), systematic Reviews and Meta-Analyses (PRISMA), International Committee of Medical Journal Editors (ICMJE)
 
 
 Referência ABNT:
