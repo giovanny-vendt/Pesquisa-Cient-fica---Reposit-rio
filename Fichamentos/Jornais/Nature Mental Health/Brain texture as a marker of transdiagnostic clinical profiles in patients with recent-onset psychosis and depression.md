@@ -18,7 +18,9 @@ Objetivos:
 > 
 
 
->
+  > A prática clínica psiquiátrica durante décadas dependeu quase que exclusivamente à capacidade de diagnóstico sindrômico para o diagnósticos "etiológico" das patologias; na verdade, as síndromes psicossomáticas descritas se restringem a aglomerados de sintomas categorizados comumente a várias patologias psiquiátricas, resultando em diagnóstico primários comumente acompanhado de uma ou mais morbidades associadas. 
+  > A complexidade das doenças psiquiatras é o ponto chave para desvendar os determinantes específicos das psicopatologias. Considerar a abordagem transdiagnóstica, ou seja, a multiface das síndromes psicopatológicas ao invés de doenças primárias e isoladas, traz vantagens como o manejo de múltiplas patologias que interagem entre si, assim como a capacidade de demarcar comorbidades de maneira mais eficientes.
+  > 
 
 
 Metodologia:
