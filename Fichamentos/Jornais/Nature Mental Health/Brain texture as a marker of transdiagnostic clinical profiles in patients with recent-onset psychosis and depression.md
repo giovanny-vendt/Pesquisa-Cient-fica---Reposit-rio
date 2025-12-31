@@ -50,7 +50,7 @@ Síntese de discussão e conclusões:
 
 Informações adicionais
 
->
+> o artigo é bem complexo. Lei os outros artigos referidos por eles, principalmente4 o [[Prediction Models of Functional Outcomes for Individuals in the Clinical High-Risk State for Psychosis or With Recent-Onset Depression]]
 
 
 Referência ABNT:
