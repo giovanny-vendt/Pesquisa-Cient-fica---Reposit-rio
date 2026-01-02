@@ -3,7 +3,7 @@
 
 **A systematic review of computational modeling of interpersonal dynamics in psychopathology** - Nature Mental Health (https://doi.org/10.1038/s44220-025-00465-9)
 
-Autores: Orestis Zavlis, Giles Story, Claire Friedrich, Peter Fonagy, Michael Moutoussis
+Autores: [[Orestis Zavlis]], [[Giles Story]], [[Claire Friedrich]], [[Peter Fonagy]], [[Michael Moutoussis]]
 
 Tipo: Revisão Sistemática
 

@@ -2,7 +2,7 @@
 
 **A systematic review of social, political and geographic factors associated with eco-anxiety in children and young people** - Nature Mental Health (https://doi.org/10.1038/s44220-025-00550-z ; informações adicionais
 
-Autores: Claire L. Niedzwiedz, Shamal M. Kankawale, Srinivasa Vittal Katikireddi 
+Autores: [[Claire L. Niedzwiedz]], [[Shamal M. Kankawale]], [[Srinivasa Vittal Katikireddi]]
 
 Data de publicação: 22 de outubro de 2025
 

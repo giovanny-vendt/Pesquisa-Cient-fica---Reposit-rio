@@ -2,7 +2,7 @@
 
 **A network analysis of rumination on loneliness and the relationship with depression** - Nature Mental Health(https://doi.org/10.1038/s44220-024-00350-x 
 
-Autores: Jingyi Luo, Nichol M. L. Wong,  Ruibin Zhang, Jingsong Wu, Robin Shao, Chetwyn C. H. Chan, Tatia M. C. Lee
+Autores: [[Jingyi Luo]], [[Nichol M. L. Wong]],  [[Ruibin Zhang]], [[Jingsong Wu]], [[Robin Shao]], [[Chetwyn C. H. Chan]], [[Tatia M. C. Lee]]
 
 Tipo: artigo original / experimental / 
 
