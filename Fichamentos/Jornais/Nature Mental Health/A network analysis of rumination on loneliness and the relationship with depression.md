@@ -41,7 +41,8 @@ Metodologia:
 > 
 > **Análise de dados**
 > 
->  Foi utilizado correlações de coeficientes de Spearman para associar as variáveis já dispostas. Em seguida, um "mediation model" entre elas foi disposto; solidão era um termo independente, ruminação era o termo mediante e depressão o termo dependente. 
+>  Foi utilizado correlações de coeficientes de Spearman para associar as variáveis já dispostas. Em seguida, um "mediation model" entre elas foi disposto; solidão era um termo independente, ruminação era o termo mediante e depressão o termo dependente. Para verificação, foi realizado substituição tipo Bootstrap.
+>  Em seguida, foi realizado uma análise do tipo network, usando os algoritmos LASSO e EBIC 
 
 
 Resultados:
