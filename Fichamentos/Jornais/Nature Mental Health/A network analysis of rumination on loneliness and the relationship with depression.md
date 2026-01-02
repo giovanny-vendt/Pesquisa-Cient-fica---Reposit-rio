@@ -62,8 +62,15 @@ Resultados:
 
 ![[Pasted image 20260102184753.png]]
 
->
+> A seguinte pergunta representa a conexão entre os questionários e suas relações:
 
+![[Pasted image 20260102185258.png]]
+
+> Relações mais comuns:
+> > 1) D7 foi a ponte entre os aglomerados solidão depressão ("dificuldade em se concentrar nas coisas")
+> > 2) D7 se conecta fortemente com L11 ("com que frequência você se sente sozinho?")
+> > 3) As pontes entre solidão e depressão são instáveis (análise bootstrap)
+> > 4) 
 Síntese de conclusões:
 
 > [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=137,26,141,30&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
