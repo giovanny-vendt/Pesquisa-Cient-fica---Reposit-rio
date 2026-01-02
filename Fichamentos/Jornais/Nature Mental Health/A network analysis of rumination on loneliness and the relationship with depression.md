@@ -70,14 +70,20 @@ Resultados:
 > > 1) D7 foi a ponte entre os aglomerados solidão depressão ("dificuldade em se concentrar nas coisas")
 > > 2) D7 se conecta fortemente com L11 ("com que frequência você se sente sozinho?")
 > > 3) As pontes entre solidão e depressão são instáveis (análise bootstrap)
-> > 4) 
-Síntese de conclusões:
+> > 4) a ponte que liga mais fortemente os três aglomerados é L4
+> > 5) L4 se conecta fortemente com R1, e vice versa
+> a
+> Um padrão simples e que explica a relação entre as variáveis é que no gráfico onde as três variáveis são dispostas, vértices da solidão se ligavam predominantemente à vértices da ruminação, que por sua vez ligavam-se predominantemente com vértices da depressão, dispondo a ruminação como intermediador efetivo das duas variáveis.
+>
+
+> Síntese de conclusões:
 
 > [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=137,26,141,30&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
 > > in the present study, the loneliness–depression network indicated that the activation of the loneliness community alone is not stably associated with the manifestation of specific depressive symptoms. 
 > 
 > 
 
+> Na rede solidão-ruminação-depressão, a principal ponte entre elementosfoi o termo L4, de pergunta "vo"
 
 
 
