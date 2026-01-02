@@ -39,16 +39,20 @@ Metodologia:
 
 > [!Abstract] **Design do estudo** :LiFullscreen:
 > 
-> O dados foram coletados no contexto do estudo [PRONIA](https://cordis.europa.eu/project/id/602152/reporting/de) (já citado), um estudo realizado por sete centros e financiado pelo Seventh Framework Programme of the European Union; basicamente, é um conjunto de ferramentas computacionais de previsão de crises psicóticas, incluindo algoritmos e outr
-
-
-
-
+> O dados foram coletados no contexto do estudo [PRONIA](https://cordis.europa.eu/project/id/602152/reporting/de) (já citado), um estudo realizado por sete centros e financiado pelo Seventh Framework Programme of the European Union; basicamente, é um conjunto de ferramentas computacionais de previsão de crises psicóticas, incluindo algoritmos e outros recursos. Maiores detalhes desse projeto são encontrados nos artigos [Heterogeneity and Classification of Recent Onset Psychosis and Depression A Multimodal Machine Learning Approach](Heterogeneity and Classification of Recent Onset Psychosis and Depression A Multimodal Machine Learning Approach) e [[Prediction Models of Functional Outcomes for Individuals in the Clinical High-Risk State for Psychosis or With Recent-Onset Depression]] (fichamentos ainda não realizados)
+> 
+> Pacientes foram coletados dentro de contexto de tratamento ou não de sua patologias, como voluntários. O modelo de diagnóstico por textura foi treinado de acordo com os números e protocolos dispostos na sessão "Training and validation samples".
 
 Resultados:
 
->
-
+> **Características das amostras**
+> 
+> Características das amostras estão disponibilizadas na tabela demonstrada a seguir:
+> ![[Pasted image 20260102105930.png]]
+> 
+> **Classificando resultados e localização**
+> 
+>  
 
 Síntese de discussão e conclusões:
 
