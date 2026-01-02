@@ -6,19 +6,37 @@ Autores: [[Ana Catarino]], [[Samuel Harper]], [[Robert Malcolm]], [[Angela Stain
 
 Tipo: artigo original
 
-keywords: [[]]
+keywords: [[fardo econômico]], [[ansiedade]], [[distúrbio de humor]], [[cuidado de saúde mental]]
 
 
 ******
 
 Objetivos:
 
->
+> [!PDF|red] [[Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare.pdf#page=2&selection=49,0,55,68&color=red|Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare, p.668]]
+> > This study extends this knowledge and investigates the principal cost drivers for treatment of common mental disorders, by comparing a form of internet-delivered CBT with general NHS TT services. Using a modeling approach grounded in real-world health-systems data, we conduct a cost-effectiveness analysis to understand the health and economic impact of different types of care and discuss the potential implications our results have for policy and clinical practice.
+> 
+> 
+
+> doenças psíquicas, tal como a depressão, tem um impacto econômico e social direto, seja pela diminuição de produtividade dos acometidos ou custo de tratamento, que varia de acordo com o tipo adotado. E mesmo tendo uma diversidade de modalidades de tratamento para esse tipo de patologia, são poucos os estudos que comparam o fardo econômico de cada tratamento. 
+> 
+> Este estudo investiga as bases de tratamento e seus custos em saúde mental, baseado em dados sobre fluxo e manejo de tratamento de sistemas de saúde distribuídos em larga escala e mundialmente, tais como o programa HS Talking Therapies (NHS TT). 
 
 
 Metodologia:
 
->
+> **Declaração ética**
+> 
+> Este estudo está de acordo com a [regulação ética do NHS TT](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/improving-access-to-psychological-therapies-data-set/iapt-data-set-fair-processing-guidance "https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/improving-access-to-psychological-therapies-data-set/iapt-data-set-fair-processing-guidance")
+> 
+> **Design do estudo e fonte de dados**
+
+> [!PDF|important] [[Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare.pdf#page=7&selection=121,0,136,70&color=important| Study design e data source]]
+> > This study is an economic evaluation of real-world mental healthcaresystems data, using routinely collected quantitative clinical-outcomes data from patients receiving care for a mood or an anxiety disorder within the UK National Healthcare Service. Deidentified real-world data were obtained from records of 83,110 patients receiving either standard treatment through NHS TT services or internet-delivered CBT, discharged from treatment between January 2018 and December 2020. All patients received treatment under a stepped-care approach, in which patients are offered the least intensive interventions appropriate for their needs first 14 . Under the stepped-care model, patients with milder presentations are signposted to low-intensity interventions (step 2), whereas patients with more severe symptoms or more complex needs are signposted to high-intensity interventions (step 3).
+> 
+> 
+
+> a maioria dos dados disponibilizados pelo DHC foram de pacientes em tratamentos multidisciplinar, incluindo aconselhamento, autoajuda guiada e terapia em grupo ()
 
 
 Resultados:
