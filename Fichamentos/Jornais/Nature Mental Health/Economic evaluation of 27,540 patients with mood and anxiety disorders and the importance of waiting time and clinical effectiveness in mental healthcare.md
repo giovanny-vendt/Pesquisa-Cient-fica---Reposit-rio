@@ -68,12 +68,20 @@ Resultados:
 > [!PDF|red] [[Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare.pdf#page=2&selection=71,0,79,33&color=red|Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare, p.668]]
 > > Results from the health economic modeling showed a difference in costs and health-related quality of life between the two data samples, with internet-delivered CBT showing small improvements in quality-adjusted life years (QALYs) and lower costs for both anxiety and depression, across all severity bands, relative to NHS TT services in general (Table 1). This means that internet-delivered CBT results in increased health benefits at a lower cost, relative to NHS TT services in general, and can therefore be said to have a ‘dominant’ incremental cost-effectiveness ratio (ICER). 
 
-> 
+![[Pasted image 20260102140525.png]]
+
 
 
 Síntese de discussão e conclusões:
 
->
+> Os achados denotam uma necessidade importante de se reduzir o tempo de espera e tempo de tratamento para ambas as doenças.
+> A eficiência de tratamento, tempo para referir o fim do tratamento e custo do tratamento foram as variáveis que mais interfiriam com o custo.
+
+> [!PDF|important] [[Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare.pdf#page=7&selection=78,0,87,70&color=important|Conclusão]]
+> > We have used large robust real-world healthcare data to understand the costs associated with treating mental health conditions. Our analysis highlights the key healthcare and human costs from waiting times and treatment duration. Treatment costs are generally outweighed by the increased draw on other medical services, and in the loss of healthrelated quality of life that comes from poor mental health. This highlights that the substantive costs of mental health conditions are driven by not intervening in an adequate or timely manner. Internet-delivered CBT provides one means of reducing waiting times and quickening the pace of a patient’s recovery, with similar treatment effectiveness
+
+> 
+> 
 
 
 Informações adicionais

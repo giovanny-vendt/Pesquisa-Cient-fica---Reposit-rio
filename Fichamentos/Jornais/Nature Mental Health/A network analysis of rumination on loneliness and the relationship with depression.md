@@ -4,7 +4,7 @@
 
 Autores: [[Jingyi Luo]], [[Nichol M. L. Wong]],  [[Ruibin Zhang]], [[Jingsong Wu]], [[Robin Shao]], [[Chetwyn C. H. Chan]], [[Tatia M. C. Lee]]
 
-Tipo: artigo original / experimental / 
+Tipo: artigo original / experimental / survey
 
 keywords: [[Depressão]], [[Solidão]], [[network analysis]], [[ruminação de sentimento]]
 
@@ -30,6 +30,10 @@ Metodologia:
 > 
 > 
 
+> Uma amostra de 904 adultos participantes foram recrutados nas cidades de Hong Kong, Guangzhou and Fuzhou (China), durante a pandemia (mais especificamente no período entre 2021-2023). Montreal Cognitive Assessment  (MoCA)foi utilizado para selecionar os participantes; aqueles que tivessem o score abaixo de 22 eram automaticamente eliminados. Essa seleção visava retirar a população idosa da análise.
+> 
+> Os questionaria incluiam medidas como solidão, ruminaçõ, depressão, características demográficas e outras qualidades individuais.
+> Solidão foi medida através da [UCLA Loneliness Scale version 3 ]()
 
 
 Resultados:
