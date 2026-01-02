@@ -11,31 +11,31 @@ keywords:
 
 ******
 
-Objetivos:
+**Objetivos:**
 
 >
 
 
-Metodologia:
+**Metodologia:**
 
 >
 
 
-Resultados:
+**Resultados:**
 
 >
 
 
-Síntese de discussão e conclusões:
+**Síntese de discussão e conclusões:**
 
 >
 
 
-Informações adicionais
+**Informações adicionais**
 
 >
 
 
-Referência ABNT:
+**Referência ABNT:**
 
-Referência Vancouver:
+**Referência Vancouver:**

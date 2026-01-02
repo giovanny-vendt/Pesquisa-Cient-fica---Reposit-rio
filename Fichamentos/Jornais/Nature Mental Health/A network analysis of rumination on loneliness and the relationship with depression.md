@@ -1,6 +1,6 @@
 
 
-**A network analysis of rumination on loneliness and the relationship with depression** - Nature Mental Health(https://doi.org/10.1038/s44220-024-00350-x 
+**A network analysis of rumination on loneliness and the relationship with depression** - Nature Mental Health(https://doi.org/10.1038/s44220-024-00350-x) 
 
 Autores: [[Jingyi Luo]], [[Nichol M. L. Wong]],  [[Ruibin Zhang]], [[Jingsong Wu]], [[Robin Shao]], [[Chetwyn C. H. Chan]], [[Tatia M. C. Lee]]
 
@@ -14,7 +14,7 @@ keywords: [[Depressão]], [[Solidão]], [[network analysis]], [[ruminação de s
 Objetivos:
 
 > [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=2&selection=99,0,103,63&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.47]]
-> > the present study will take a first step to examine the relationship between specific loneli ness items, rumination items and individual depressive symptoms
+> > the present study will take a first step to examine the relationship between specific loneliness items, rumination items and individual depressive symptoms
 > 
 > 
 
@@ -34,7 +34,7 @@ Metodologia:
 > 
 > **Os questionários**
 > 
-> Os questionarios incluiam medidas como solidão, ruminaçõ, depressão, características demográficas e outras qualidades individuais.
+> Os questionarios incluiam medidas como solidão, ruminação, depressão, características demográficas e outras qualidades individuais.
 > Solidão foi medida através da [UCLA Loneliness Scale version 3 ](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FUCLA%20Loliness%20assetment.pdf) 
 > Ruminação foi medida através do [22-items RRS](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2F22-item%20RRS.pdf), variado da [Teoria da Rsposta de Estilos](), de Nolen-Hoeksema
 > Depressão foi medido através do [PHQ-9](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FPHQ-9.pdf).
@@ -72,18 +72,22 @@ Resultados:
 > > 3) As pontes entre solidão e depressão são instáveis (análise bootstrap)
 > > 4) a ponte que liga mais fortemente os três aglomerados é L4
 > > 5) L4 se conecta fortemente com R1, e vice versa
-> a
+> 
 > Um padrão simples e que explica a relação entre as variáveis é que no gráfico onde as três variáveis são dispostas, vértices da solidão se ligavam predominantemente à vértices da ruminação, que por sua vez ligavam-se predominantemente com vértices da depressão, dispondo a ruminação como intermediador efetivo das duas variáveis.
 >
 
-> Síntese de conclusões:
+
+Síntese de conclusões:
 
 > [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=137,26,141,30&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
 > > in the present study, the loneliness–depression network indicated that the activation of the loneliness community alone is not stably associated with the manifestation of specific depressive symptoms. 
 > 
 > 
 
-> Na rede solidão-ruminação-depressão, a principal ponte entre elementosfoi o termo L4, de pergunta "vo"
+> Na rede solidão-ruminação-depressão, a principal ponte entre elementos foi o termo L4, de pergunta "você se sente frequentemente sozinho?", e R1, "ruminação da solidão".
+
+> [!PDF|important] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=162,34,171,53&color=important| A hipótese da ruminação]]
+> > In our study, the maladaptive way of coping with the stressor—in this case, ruminating on the loneliness feelings—can be the reason why loneliness can result in the development of further depressive symptoms. Especially during the pandemic, due to the Chinese government’s compulsory implementation of social distancing policies, people had less chance to gather with their socially significant others and form or maintain their social bonds in person. Social activities are especially important for younger adults (the primary participants of the present study), who require a larger amount of social connection with their friends and colleague
 
 
 
@@ -100,9 +104,9 @@ informações adicionais:
 
 
 
+Referência ABNT: LUO, J. et al. A network analysis of rumination on loneliness and the relationship with depression. **Nature Mental Health**, 19 dez. 2024.
 
 
+Referência Vancouver: Luo J, Nichol, Zhang R, Wu J, Shao R, Chan, et al. A network analysis of rumination on loneliness and the relationship with depression. Nature Mental Health. 2024 Dec 19;
 
-Referência ABNT:
-
-Referência Vancouver:
+‌
