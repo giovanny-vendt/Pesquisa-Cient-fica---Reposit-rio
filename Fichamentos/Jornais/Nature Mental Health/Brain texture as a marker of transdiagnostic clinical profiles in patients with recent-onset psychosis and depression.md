@@ -35,7 +35,14 @@ Objetivos:
 
 Metodologia:
 
+> Previamente, o consentimento de todos os participantes foi coletado e registrado no "German CLinical Trials Register", de código DRKS00005042, com IDs éticos listados na primeira secção de metodologia.
+
+> [!Abstract] **Design do estudo** :LiFullscreen:
 > 
+> O dados foram coletados no contexto do estudo [PRONIA](https://cordis.europa.eu/project/id/602152/reporting/de) (já citado), um estudo realizado por sete centros e financiado pelo Seventh Framework Programme of the European Union; basicamente, é um conjunto de ferramentas computacionais de previsão de crises psicóticas, incluindo algoritmos e outr
+
+
+
 
 
 Resultados:
