@@ -48,9 +48,27 @@ Metodologia:
 > a
 > **Dados sobre eficiência clinica**
 
+![[Pasted image 20260102134934.png]]
+
+> **Cálculo do custo**
+
+![[Pasted image 20260102134955.png]]
+
+
+> Todos os valores estão em libra britânica. 
+> 
+> **Estruturas do modelo**
+> 
+> Dois modelos foram desenvolvidos: *pretratamento* e *pós tratamento*
+> Antes de seu desenvolvimento, fora feito uma análise de escopo para procurar por modelos semelhantes.
+
+
 Resultados:
 
->
+> [!PDF|red] [[Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare.pdf#page=2&selection=71,0,79,33&color=red|Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare, p.668]]
+> > Results from the health economic modeling showed a difference in costs and health-related quality of life between the two data samples, with internet-delivered CBT showing small improvements in quality-adjusted life years (QALYs) and lower costs for both anxiety and depression, across all severity bands, relative to NHS TT services in general (Table 1). This means that internet-delivered CBT results in increased health benefits at a lower cost, relative to NHS TT services in general, and can therefore be said to have a ‘dominant’ incremental cost-effectiveness ratio (ICER). 
+
+> 
 
 
 Síntese de discussão e conclusões:
