@@ -60,6 +60,10 @@ Resultados:
 > A amostra final foi de 900 adultos.
 > O modelo de mediação foi realizado, com a solidão tendo efeito significativo na depressão e ruminação, e por sua vez a ruminação associada a depresão; ruminação media a relação solidão-depressão
 
+![[Pasted image 20260102184753.png]]
+
+>
+
 Síntese de conclusões:
 
 > [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=137,26,141,30&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
@@ -77,6 +81,8 @@ informações adicionais:
 > Leia os artigos a seguir para compreender melhor esse *framework*:
 > [[Network analysis of multivariate data in psychological science.pdf]]
 > [[Network analysis a brief overview and tutorial.pdf]]
+> 
+> material suplementar do artigo: [[supplementar content - A network analysis of rumination on loneliness and the relationship with depression.pdf]] 
 
 
 
