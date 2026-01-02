@@ -44,8 +44,7 @@ Metodologia:
 >  Foi utilizado correlações de coeficientes de Spearman para associar as variáveis já dispostas. Em seguida, um "mediation model" entre elas foi disposto; solidão era um termo independente, ruminação era o termo mediante e depressão o termo dependente. Para verificação, foi realizado substituição tipo Bootstrap.
 >  Em seguida, foi realizado uma análise do tipo network, usando os algoritmos LASSO e EBIC (ferramentas do [bootnet packge](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FNetwork%20Science%2FEstimating%20psychological%20networks%20and%20their%20accuracy%3A%20A%20tutorial%20paper.pdf)), e a centralidade através de ferramentas disponibilizadas no [qgraph packge](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FNetwork%20Science%2Fqgraph%3A%20Network%20Visualizations%20of%20Relationships%20in%20Psychometric%20Data.pdf). a robustez da rede foi testada através de métodos bootstrap.
 >  Para a ilustração da rede, foi utilizado o conjunto de ferramentas do [network package](https://cran.r-project.org/package=networktools "https://cran.r-project.org/package=networktools"). 
->  
->  
+
 
 
 Resultados:
@@ -58,7 +57,8 @@ Resultados:
 > 
 > 
 
-
+> A amostra final foi de 900 adultos.
+> O modelo de mediação foi realizado, com a solidão tendo efeito significativo na depressão e ruminação, e por sua vez a ruminação associada a depresão; ruminação media a relação solidão-depressão
 
 Síntese de conclusões:
 
