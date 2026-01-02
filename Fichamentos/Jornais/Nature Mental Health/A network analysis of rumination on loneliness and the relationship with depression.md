@@ -32,8 +32,16 @@ Metodologia:
 
 > Uma amostra de 904 adultos participantes foram recrutados nas cidades de Hong Kong, Guangzhou and Fuzhou (China), durante a pandemia (mais especificamente no período entre 2021-2023). Montreal Cognitive Assessment  (MoCA)foi utilizado para selecionar os participantes; aqueles que tivessem o score abaixo de 22 eram automaticamente eliminados. Essa seleção visava retirar a população idosa da análise.
 > 
-> Os questionaria incluiam medidas como solidão, ruminaçõ, depressão, características demográficas e outras qualidades individuais.
-> Solidão foi medida através da [UCLA Loneliness Scale version 3 ]()
+> **Os questionários**
+> 
+> Os questionarios incluiam medidas como solidão, ruminaçõ, depressão, características demográficas e outras qualidades individuais.
+> Solidão foi medida através da [UCLA Loneliness Scale version 3 ](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FUCLA%20Loliness%20assetment.pdf) 
+> Ruminação foi medida através do [22-items RRS](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2F22-item%20RRS.pdf), variado da [Teoria da Rsposta de Estilos](), de Nolen-Hoeksema
+> Depressão foi medido através do [PHQ-9](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FPHQ-9.pdf).
+> 
+> **Análise de dados**
+> a
+> 
 
 
 Resultados:
