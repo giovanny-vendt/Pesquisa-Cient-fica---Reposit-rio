@@ -36,8 +36,17 @@ Metodologia:
 > 
 > 
 
-> a maioria dos dados disponibilizados pelo DHC foram de pacientes em tratamentos multidisciplinar, incluindo aconselhamento, autoajuda guiada e terapia em grupo ()
+> a maioria dos dados disponibilizados pelo DHC foram de pacientes em tratamentos multidisciplinar, incluindo aconselhamento, autoajuda guiada e terapia em grupo, e dados disponibilizados pelo ios incluiam terapias via internet
+> Visto a maior bibliografia possível, as patologias foram limitadas a depressão e ansiedade, e foram selecionados apenas pacientes com diagnóstico primário de depressão (sem comorbidades) e paciente com ansiedade generalizada. pacientes que apenas participaram de sessões terapêuticas de reconhecimento e possuem doenças crônicas não transmissíveis foram excluídos do modelo final, mesmo reconhecendo a sobreposição dessas condições a longo prazo.
 
+> [!PDF|important] [[Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare.pdf#page=8&selection=14,0,24,40&color=important|Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare, p.674]]
+> > The final model was populated with real-world data from 27,540 patients receiving standard treatment through NHS TT services (16,790, mean age 35.7, 65.7% female) or internet-delivered CBT (10,750, mean age 32.6, 73.6% female) (Extended Data Fig. 1). As ieso operates within the NHS TT program, there is a small proportion of DHC patients who received internet-delivered CBT provided by ieso (687 of 16,790, 4.1%). Removing the small proportion of patients who received internet-delivered CBT from the DHC dataset did not meaningfully affect the results of the final model. To make the results representative of the complete service offering provided by DHC, we therefore opted not to exclude these patients from the dataset.
+
+> **Entradas do modelo**
+> 
+> Os dados utilizados incluem ***tempo de espera***, ***tempo de tratamento***, ***diagnóstico clínico***, ***gravidade dos sintomas antes e depois do tratamento*** (utilizou-se o [PHQ-9](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FPHQ-9.pdf) e [GAD-7](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2Fgad7_ref.pdf))
+> a
+> **Dados sobre eficiência **
 
 Resultados:
 
