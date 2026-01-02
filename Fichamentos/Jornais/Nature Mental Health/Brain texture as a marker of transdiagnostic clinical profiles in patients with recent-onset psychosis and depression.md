@@ -51,8 +51,13 @@ Resultados:
 > ![[Pasted image 20260102105930.png]]
 > 
 > **Classificando resultados e localização**
+
+ > [!PDF|important] [[Brain texture as a marker of transdiagnostic clinical profiles in patients with recent-onset psychosis and depression.pdf#page=4&selection=9,0,18,41&color=important|]]
+> > A repeated nested pooled cross-validation classifier of brain contrast texture maps achieved a balanced accuracy of 72.43%, a sensitivity of 74.40% and a specificity of 74.45% for discrimination of patients (pooled ROD and ROP) from the HC participants (Table 2). A total of 231 age- and sex-matched participants was included in the independent validation sample, with 139 participants classified correctly as ROD + ROP (balanced accuracy 60.27%, sensitivity 61.20% and specificity 58.65%). In the independent validation follow-up sample, 137 participants were included, where 77 participants were classified correctly and 60 of them provided all the clinical variables.
 > 
->  
+
+> a implementação do algoritmo de relevância de propagação camada-tamanho (LRP) mostrou que os "voxels" mais relevante para a diferenciação do grupo controle e pacientes foi encontrada no cerebelo, porções anterior e posterior da linha média, e áreas cerebrais frontotemporal e insula direita
+
 
 Síntese de discussão e conclusões:
 
