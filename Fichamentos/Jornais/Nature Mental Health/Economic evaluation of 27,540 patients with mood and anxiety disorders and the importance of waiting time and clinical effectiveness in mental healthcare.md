@@ -46,7 +46,7 @@ Metodologia:
 > 
 > Os dados utilizados incluem ***tempo de espera***, ***tempo de tratamento***, ***diagnóstico clínico***, ***gravidade dos sintomas antes e depois do tratamento*** (utilizou-se o [PHQ-9](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FPHQ-9.pdf) e [GAD-7](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2Fgad7_ref.pdf))
 > a
-> **Dados sobre eficiência **
+> **Dados sobre eficiência clinica**
 
 Resultados:
 
