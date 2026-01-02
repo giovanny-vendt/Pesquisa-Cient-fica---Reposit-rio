@@ -2,7 +2,7 @@
 
 **Brain texture as a marker of transdiagnostic clinical profiles in patients with recent-onset psychosis and depression** - Nature Mental Health, 17 out. 2025 (https://doi.org/10.1038/s44220-023-00168-z )
 
-Autores: [[Alexandra I. Korda]], [[Christina Andreou]] , [[Anne Ruef]], [[Lisa Hahn]], [[André Schmidt]], [[Udo Dannlowski]], [[Lana Kambeitz-Ilankovic]], [[Dominic B. Dwyer]], [[Joseph Kambeitz]], [[Julian Wenzel]], [[Stephan Ruhrmann]], [[Stephen J. Wood]], [[Raimo K. R. Salokangas]], [[Christos Pantelis]], Frauke Schultze-Lutter, Eva Meisenzahl, Paolo Brambilla, Pierluigi Selvaggi, Alessandro Bertolino, Jarmo Hietala, Rachel Upthegrove, Paris Alexandros Lalousis, Anita Riecher-Rössler, Christos Davatzikos, Rebekka Lencer, Nikolaos Koutsouleris, Stefan Borgwardt
+Autores: [[Alexandra I. Korda]], [[Christina Andreou]] , [[Anne Ruef]], [[Lisa Hahn]], [[André Schmidt]], [[Udo Dannlowski]], [[Lana Kambeitz-Ilankovic]], [[Dominic B. Dwyer]], [[Joseph Kambeitz]], [[Julian Wenzel]], [[Stephan Ruhrmann]], [[Stephen J. Wood]], [[Raimo K. R. Salokangas]], [[Christos Pantelis]], [[Frauke Schultze-Lutter]], [[Eva Meisenzahl]], [[Paolo Brambilla]], [[Pierluigi Selvaggi]], [[Alessandro Bertolino]], [[Jarmo Hietala]], [[Rachel Upthegrove]], [[Paris Alexandros Lalousis]], [[Anita Riecher-Rössler]], [[Christos Davatzikos]], [[Rebekka Lencer]], [[Nikolaos Koutsouleris]], [[Stefan Borgwardt]]
 
 Tipo: experimental, quali-quantitativa
 

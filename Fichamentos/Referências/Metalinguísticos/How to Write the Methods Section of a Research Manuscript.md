@@ -2,7 +2,7 @@
 
 **How to Write the Methods Section of a Research Manuscript** - Respiratory Care, 2023
 
-Autores: L Denise Willis
+Autores: [[L Denise Willis]]
 
 Tipo: Revisão narrativa de literatura
 

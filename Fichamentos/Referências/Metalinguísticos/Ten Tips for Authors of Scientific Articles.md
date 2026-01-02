@@ -2,7 +2,7 @@
 
 **Ten Tips for Authors of Scientific Articles** - Journal of Korean Medicine Science (http://dx.doi.org/10.3346/jkms.2014.29.8.1035)
 
-Autores: Sung-Tae Hong
+Autores: [[Sung-Tae Hong]]
 
 Tipo: Artigo de opinião / artigo especial
 

@@ -2,7 +2,7 @@
 
 **A guide to backward paper writing for the data sciences** - Cell Open Press (https://doi.org/10.1016/j.patter.2021.100423)
 
-Autores: Jon Zelner,Kelly Broen, Ella August
+Autores: [[Jon Zelner]],[[Kelly Broen]], [[Ella August]]
 
 Tipo: Perspectiva
 

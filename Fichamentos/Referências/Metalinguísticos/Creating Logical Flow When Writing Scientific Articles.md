@@ -2,7 +2,7 @@
 
 **Creating Logical Flow When Writing Scientific Articles** - Journal of Korean Medicine Science, 22 set. 2021(https://doi.org/10.3346/jkms.2021.36.e275)
 
-Autores: Edward Barroga, Glafera Janet Matanguihan
+Autores: [[Edward Barroga]], [[Glafera Janet Matanguihan]]
 
 Tipo: Revisão narrativa de literatura / artigo especial
 

@@ -2,7 +2,7 @@
 
 **Formulating research questions for evidence-based studies** -Journal of Medicine, Surgery, and Public Health 2 (https://doi.org/10.1016/j.glmedi.2023.100046)
 
-Autores: Mohammad-Salar Hosseini, Farid Jahanshahlou, Mohammad Amin Akbarzadeh, Mahdi Zarei, Yosra Vaez-Gharamaleki
+Autores: [[Mohammad-Salar Hosseini]], [[Farid Jahanshahlou]], [[Mohammad Amin Akbarzadeh, Mahdi Zarei]], [[Yosra Vaez-Gharamaleki]]
 
 Tipo: Revisão Narrativa de Literautra
 
