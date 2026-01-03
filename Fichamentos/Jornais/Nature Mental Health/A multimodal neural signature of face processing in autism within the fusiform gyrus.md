@@ -31,7 +31,7 @@ keywords: [[biomarcador]], [[autismo]]
 > 
 > 
 
->
+> **Pacientes**  eram parte do EU-AIMS/AOMS-2-TRIALS LEAP cohort, um estudo longitudinal apoiado pela União Europeia e de amostra gigantesca. Todos eles tinham um diagnóstico prévio de autismo que foi confirmado usando o padrão ouro de diagnóstico, o [ADI revisado]() e [ADOS](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FADOS%202ed.pdf) 
 
 
 **Resultados:**
