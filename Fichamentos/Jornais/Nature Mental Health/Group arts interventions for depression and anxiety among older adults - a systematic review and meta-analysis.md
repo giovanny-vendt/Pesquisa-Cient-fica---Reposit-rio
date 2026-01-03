@@ -94,7 +94,11 @@ keywords: [[intervenção artística]], [[terapia ocupacional]], [[depressão]],
 > [!PDF|red] [[Group arts interventions for depression and anxiety among older adults a systematic review and meta-analysis.pdf#page=5&selection=177,42,181,29&color=red|Group arts interventions for depression and anxiety among older adults a systematic review and meta-analysis, p.378]]
 > >  this meta-analysis found that engaging in group arts interventions significantly reduced depression and anxiety symptoms relative to engaging in other non-artsbased activities, one’s usual activities only or remaining on a waiting list for arts interventions. 
 
->
+> Os dados encontrados foram compatíveis com outras metanálises e revisões sistemáticas. De maneira geral, os estudo apontaram para um maior efeito no tratamento das patologias em pacientes em arteterapia e atividades artísticas, afirmativa sustentada pelo coeficiente de cohen médio dos estudo encontrados para ansiedade foi de *d* = 0.76.
+> Os benefícios da arteterapia são gerais para todos os contextos, habitualmente.
+> Dramaturgia, escrita criativa e outras atividades foram menos representadas que artes visuais, dança e música.
+> De maneira geral, os resultados em casos de depressão eram de artigos com viés, ou seja, provavelmente resultados negativos podem ter sido ocultados. O artigo garante que os resultados dispostos nele passaram pelos procedimentos descritos na metodologia.
+> Outro problema é a heterogenia de estudos, devido a natureza diferente das intervenções. Além disso, o artigo apenas compara o
 
 
 **Informações adicionais**
