@@ -32,17 +32,24 @@ keywords: [[intervenção artística]], [[terapia ocupacional]], [[depressão]],
 > 3) Idade da população amostral foi de >= 55 anos
 > 4) a intervenção realizada pode ser ativa ou passiva, relativo a arte (este de tipos variados, porém exclusivos)
 > 5) Foram núcleos de intervenções analisadas - música, dança, artes visuais, dramatização e escrita criativa.
-> 6) As intervenções foram classificadas em "arte terapia" e "atividade artística", de acordo com o British Association of Music Therapy (resumidamente, a primeira necessita de um profissional acompanhando o praticante)
-> 7) Apenas intervenções com grupo controle foram incluídas
-> 8) Fora estuda as medidas de depressão e ansiedade pré e pós intervenções
-> 9) O design dos estudos escolhido deveriam ser ensaios randomizados ou não randomizados com amplitude em intervenções e estratégias
-> 10) Todos os estudos deveriam ser em inglês para serem incluídos
-> 11) Risco de viés foi calculado com a ferramenta Cochrane risk-of-bias tool RoB 2 (ensaios randomizados)e ROBINS-I (ensaios não randomizados)
-> 12) CMA version 3 foi utilizado para extração de dados
-> 13) A análise estatística usado a [[regra de Cohen]]
+> 6) As intervenções foram classificadas em "arte terapia" e "atividade artística", de acordo com o British Association of Music Therapy (resumidamente, a primeira necessita de um profissional acompanhando o praticante).
+> 7) Apenas intervenções com grupo controle foram incluídas.
+> 8) Fora estuda as medidas de depressão e ansiedade pré e pós intervenções.
+> 9) O design dos estudos escolhido deveriam ser ensaios randomizados ou não randomizados com amplitude em intervenções e estratégias.
+> 10) Todos os estudos deveriam ser em inglês para serem incluídos.
+> 11) Risco de viés foi calculado com a ferramenta Cochrane risk-of-bias tool RoB 2 (ensaios randomizados)e ROBINS-I (ensaios não randomizados).
+> 12) CMA version 3 foi utilizado para extração de dados.
+> 13) A análise estatística usado a [[regra de Cohen]] para cálculo de efeito comparado entrea as amostragens e seus desvios padrão, sendo o valor considerado alto como benéfico no tratamento das patologias.
+> 14) Foi verificado existência de "outliers" e viés de publicação ([Eggers's test](), disputado na literatura, muitas correções).
+> 15) Heterogeniedade foi testado através do teste estatístico *Q* e *I²* 
 
 
 **Resultados:**
+
+> [!PDF|red] [[Group arts interventions for depression and anxiety among older adults a systematic review and meta-analysis.pdf#page=3&selection=32,0,37,59&color=red|Group arts interventions for depression and anxiety among older adults a systematic review and meta-analysis, p.376]]
+> > This meta-analysis synthesized the available evidence to determine whether group arts interventions were effective at reducing depression and anxiety among older adults. We focused on group arts interventions given the noted benefits of group-based delivery as well as their cost-effectiveness and potential for scalability. 
+
+
 
 >
 
