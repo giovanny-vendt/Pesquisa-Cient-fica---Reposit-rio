@@ -98,7 +98,11 @@ keywords: [[intervenção artística]], [[terapia ocupacional]], [[depressão]],
 > Os benefícios da arteterapia são gerais para todos os contextos, habitualmente.
 > Dramaturgia, escrita criativa e outras atividades foram menos representadas que artes visuais, dança e música.
 > De maneira geral, os resultados em casos de depressão eram de artigos com viés, ou seja, provavelmente resultados negativos podem ter sido ocultados. O artigo garante que os resultados dispostos nele passaram pelos procedimentos descritos na metodologia.
-> Outro problema é a heterogenia de estudos, devido a natureza diferente das intervenções. Além disso, o artigo apenas compara o
+> Outro problema é a heterogenia de estudos, devido a natureza diferente das intervenções. Além disso, o artigo apenas compara atividades em conjunto, não contrastando com o benefício das atividades isoladas.
+
+
+> [!PDF|important] [[Group arts interventions for depression and anxiety among older adults a systematic review and meta-analysis.pdf#page=7&selection=38,0,52,61&color=important| Conclusão]]
+> > Together, our findings suggest a universal benefit of group arts interventions across different characteristics, including art type (that is, visual arts, music and dance), for addressing depression and anxiety. This has practical implications for the mental health of older adults. Research has shown that receipt of a preferred psychosocial intervention is associated with lower dropout in mental health services 121 . Moreover, the National Institute for Health and Care Excellence guidelines for treating depression suggest that, where possible, patients should be involved in choosing which recommended treatment(s) they prefer3
 
 
 **Informações adicionais**
@@ -106,6 +110,10 @@ keywords: [[intervenção artística]], [[terapia ocupacional]], [[depressão]],
 >
 
 
-**Referência ABNT:**
+**Referência ABNT:** QUINN, E. A.; MILLARD, E.; JONES, J. M. Group arts interventions for depression and anxiety among older adults: a systematic review and meta-analysis. **Nature Mental Health**, v. 3, 5 mar. 2025.
 
-**Referência Vancouver:**
+‌
+
+**Referência Vancouver:** Quinn EA, Millard E, Jones JM. Group arts interventions for depression and anxiety among older adults: a systematic review and meta-analysis. Nature Mental Health [Internet]. 2025 Mar 5;3. Available from: https://www.nature.com/articles/s44220-024-00368-1.
+
+‌
