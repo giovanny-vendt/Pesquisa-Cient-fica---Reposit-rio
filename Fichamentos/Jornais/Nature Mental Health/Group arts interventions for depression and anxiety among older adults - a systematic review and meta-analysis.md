@@ -29,7 +29,7 @@ keywords: [[intervenção artística]], [[terapia ocupacional]], [[depressão]],
 > Dentro dos protocolos de revisão sistemática:
 > 1) Primeira pesquisa foi realizada entre 8-15 de maio de 2020.
 > 2) Bases de dados utilizadas foram ochrane Library, PsycARTICLES, PsycINFO, EMBASE, Web of Science, PubMed e Google Scholar
-> 3) 
+> 3) Idade da 
 
 
 **Resultados:**
