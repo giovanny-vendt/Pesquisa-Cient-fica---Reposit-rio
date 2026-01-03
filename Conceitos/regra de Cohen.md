@@ -1,0 +1,1 @@
+https://www.blog.psicometriaonline.com.br/d-de-cohen/
