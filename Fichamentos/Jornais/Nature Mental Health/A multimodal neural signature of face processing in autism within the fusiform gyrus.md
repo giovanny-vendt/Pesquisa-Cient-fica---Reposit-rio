@@ -31,6 +31,11 @@ keywords: [[biomarcador]], [[autismo]]
 > 
 > 
 
+
+![[Pasted image 20260103160241.png]]
+
+
+
 > **Pacientes**  eram parte do EU-AIMS/AOMS-2-TRIALS LEAP cohort, um estudo longitudinal apoiado pela União Europeia e de amostra gigantesca. Todos eles tinham um diagnóstico prévio de autismo que foi confirmado usando o padrão ouro de diagnóstico, o [ADI revisado]() e [ADOS](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FADOS%202ed.pdf) 
 > As **Medidas utilizadas** foram separadas em dois grandes grupos: (1) qualidades socio-comunicativas e (2) qualidades não socio-comunicativas, ambos descritos no item do [link](![[A multimodal neural signature of face processing in autism within the fusiform gyrus.pdf#page=9&rect=300,192,570,373&color=red|A multimodal neural signature of face processing in autism within the fusiform gyrus, p.39]]) aqui.
 > A **análise por imagem** foi restrita a região do FFG, bilateralmente, na base do HOA (Oxford Center for Functional MRI of the Brain). as modalidades utilizadas foram ressonância magnética, representadaa graficamente através de derivados de morfometria baseada em voxels (VBM) e "voxel-wise GM volumes", EEG, rs-fMR, ask-fMR
@@ -46,7 +51,8 @@ keywords: [[biomarcador]], [[autismo]]
 
 **Resultados:**
 
->
+> Primeiramente, para os resultados unimodais; a precisão foi avaliada usando [["voxel per time point values" (Rho)]]
+> Após a junção da análise normativa dos dados de cada um dos exames de imagem, esse dados foram conglomerados através da ferramenta LICA, que idenficou 50 componentes independentes derivados de 8 regiões do cérebro 
 
 
 **Síntese de discussão e conclusões:**
@@ -57,6 +63,8 @@ keywords: [[biomarcador]], [[autismo]]
 **Informações adicionais**
 
 > Leia mais sobre "Normative modeling" em [Warped Bayesian linear regression for normative modelling of big data](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FWarped%20Bayesian%20linear%20regression%20for%20normative%20modelling%20of%20big%20data.pdf) e [LICA]() (ainda estou tentando conseguir esse artigo)
+> 
+> link para o suplemento: https://static-content.springer.com/esm/art%3A10.1038%2Fs44220-024-00349-4/MediaObjects/44220_2024_349_MOESM1_ESM.pdf
 
 
 **Referência ABNT:**
