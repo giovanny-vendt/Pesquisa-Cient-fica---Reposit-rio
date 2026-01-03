@@ -52,12 +52,19 @@ keywords: [[biomarcador]], [[autismo]]
 **Resultados:**
 
 > Primeiramente, para os resultados unimodais; a precisão foi avaliada usando [["voxel per time point values" (Rho)]]
-> Após a junção da análise normativa dos dados de cada um dos exames de imagem, esse dados foram conglomerados através da ferramenta LICA, que idenficou 50 componentes independentes derivados de 8 regiões do cérebro 
+> Após a junção da análise normativa dos dados de cada um dos exames de imagem, esse dados foram conglomerados através da ferramenta LICA, que idenficou 50 componentes independentes derivados de 8 regiões do cérebro. o componente IC44 revelou diferenças significativas entre autistas e não autistas, sendo o primeiro grupo mais ativo. o IC44 está na região córtex visual occipito-temporal (VIS) no hemisfério esquerdo
+> Após os dados coletados pelo LICA, foi aplicados o SVM (support vector machine) para comparar a eficácia de modelos unimodais e multimodais. multimodais performaram melhor.
 
 
 **Síntese de discussão e conclusões:**
 
->
+> [!PDF|red] [[A multimodal neural signature of face processing in autism within the fusiform gyrus.pdf#page=5&selection=121,1,132,60&color=red|A multimodal neural signature of face processing in autism within the fusiform gyrus, p.35]]
+> > n the present study, we aimed to characterize the multimodal neural signature of face processing in autism within the FFG, the core region of the face processing network. We identified several ICs that were differentially associated with the four modalities (structure, rs-fMRI, task-fMRI and EEG), hemispheres and functional subdivisions of the FFG. Autism-associated differences in FFG organization were more pronounced when penetrating across multiple rather than single modalities. Furthermore, a set of multimodal ICs was associated with core features related to social but not nonsocial functioning in autism. Taken together, these findings highlight the value of cross-modal analyses in characterizing a key structure in the multilevel neurobiology of autism and its implication in core cognitive and clinical features.
+> 
+> 
+
+
+> mais uma vez, ressalta-se o IC44 como maior diferença entre os dois grupos
 
 
 **Informações adicionais**
