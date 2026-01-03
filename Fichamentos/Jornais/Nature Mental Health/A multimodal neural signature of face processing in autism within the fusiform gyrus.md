@@ -39,8 +39,10 @@ keywords: [[biomarcador]], [[autismo]]
 > [!PDF|yellow] [[A multimodal neural signature of face processing in autism within the fusiform gyrus.pdf#page=10&selection=13,0,33,2&color=yellow| Normative modeling]]
 > > Normative modeling is an emerging statistical technique that allows parsing heterogeneity by charting variation in brain–behavior mappings relative to a normative range and provides statistical inference at the level of the individual. The term ‘normative’ should not be seen as incompatible with the neurodiversity framework as it simply refers to statistical norms, such as growth charts, that vary by demographics, such as age and sex. Here, we trained normative models using Bayesian linear regression for each brain imaging modality within the right and left FFG region of interest (ROI) independently using age, sex and scanning site as covariates. A B-spline basis expansion of the covariate vector was used to model nonlinear effects of age. Normative models were derived in an unbiased manner across the entire sample under tenfold cross-validation. 
 
-> 
+> O teste dos **componentes multimodais** para concluir melhor performance sobre modelos unimodais na diferenciação de autistas e grupo controle foi realizada através do cálculo do MMI (0-100%) por IC (individual componentes). o valor de MMI foi definido pela seguinte equação:
 
+
+![[Pasted image 20260103155100.png]]
 
 **Resultados:**
 
@@ -54,7 +56,7 @@ keywords: [[biomarcador]], [[autismo]]
 
 **Informações adicionais**
 
-> Leia mais sobre "Normative modeling" em [Warped Bayesian linear regression for normative modelling of big data](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FWarped%20Bayesian%20linear%20regression%20for%20normative%20modelling%20of%20big%20data.pdf)
+> Leia mais sobre "Normative modeling" em [Warped Bayesian linear regression for normative modelling of big data](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FWarped%20Bayesian%20linear%20regression%20for%20normative%20modelling%20of%20big%20data.pdf) e [LICA]() (ainda estou tentando conseguir esse artigo)
 
 
 **Referência ABNT:**
