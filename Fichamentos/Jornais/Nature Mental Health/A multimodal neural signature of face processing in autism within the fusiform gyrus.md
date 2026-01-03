@@ -64,12 +64,12 @@ keywords: [[biomarcador]], [[autismo]]
 > 
 
 
-> mais uma vez, ressalta-se o IC44 como maior diferença entre os dois grupos
+> mais uma vez, ressalta-se o IC44 como maior diferença entre os dois grupos. As regiões do FFG com maior diferença entre autistas e grupo controle, na sobreposição do VIS atlas, nas regiões de seletividade de rosto e retinotópica
 
 
 **Informações adicionais**
 
-> Leia mais sobre "Normative modeling" em [Warped Bayesian linear regression for normative modelling of big data](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FWarped%20Bayesian%20linear%20regression%20for%20normative%20modelling%20of%20big%20data.pdf) e [LICA]() (ainda estou tentando conseguir esse artigo)
+> Leia mais sobre "Normative modeling" em [Warped Bayesian linear regression for normative modelling of big data](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FWarped%20Bayesian%20linear%20regression%20for%20normative%20modelling%20of%20big%20data.pdf) e [LICA]() (ainda estou tentando conseguir esse artigo), e [HOA](https://nilearn.github.io/dev/modules/description/harvard_oxford.html) (Oxford Center for Functional MRI of the Brain)
 > 
 > link para o suplemento: https://static-content.springer.com/esm/art%3A10.1038%2Fs44220-024-00349-4/MediaObjects/44220_2024_349_MOESM1_ESM.pdf
 
