@@ -6,7 +6,7 @@ Autores: [[Alexandra I. Korda]], [[Christina Andreou]] , [[Anne Ruef]], [[Lisa H
 
 Tipo: experimental, quali-quantitativa
 
-keywords:
+keywords: [[biomarcador]], [[psicoses]], [[psicopatologia]]
 
 
 ******
