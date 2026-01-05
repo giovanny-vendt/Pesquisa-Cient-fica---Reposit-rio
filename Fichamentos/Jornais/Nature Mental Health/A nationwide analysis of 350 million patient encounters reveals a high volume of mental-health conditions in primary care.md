@@ -51,14 +51,16 @@ keywords: [[atenção primária]], [[cuidado de saúde mental]]
 **Síntese de discussão e conclusões:**
 
 > Esse estudo foi capaz de cumprir com seus objetivos, e identificou as principais relações dispostas com a saúde mental e o cuidado primário da saúde.
-> Devido à análise contar com um grupo amostral total de 350 milhões de encontros na Noruega, a base de dados é bem ampla. Foi denotado a alta prevalência de queixas e morbidades em saúde mental, porém, existem questões que devem ser analisadas. Por um lado, o valor percentual desses encontros pode estar superestimada porque patologias neurogenerativas podem ser ade
+> Devido à análise contar com um grupo amostral total de 350 milhões de encontros na Noruega, a base de dados é bem ampla. Foi denotado a alta prevalência de queixas e morbidades em saúde mental, porém, existem questões que devem ser analisadas. Por um lado, o valor percentual desses encontros pode estar superestimada porque patologias neurodegenerativas podem ser aderidas a categorias do grupo P-Psychological, aumentando o volume de casos; já em outra perspectiva, o valor percentual pode estar subestimado pois causas de dores e morbidades psicológicas e sentimentais de outras patologias e sistemas ficam com seus respectivos grupos, não pontuando na categoria de saúde mental.
+> Além disso, a classificação e registro varia muito de acordo com o doutor e a prática, o que pode alterar o valor para todas as categorias.
+> As forças do artigo incluem a fonte de dados e tags de identificação que ampliam e "corrigem" a categorização dos pacientes.
+> De limitações, esse estudo se limita ao território norueguês, e como um é estudo epidemiológico, as conclusões e dados coletados variam demograficamente. Adicione o fato de que esse não é um estudo de prevalência populacional, mas prevalência de casos específicos que chegam na atenção primária; obviamente, o valor total de patologias e morbidades de saúde mental na população norueguesa é maior e proporcionalmente diferente dos resultados apresentados, e o fato de não haverem dados intra-consulta.
 
 
-**Informações adicionais**
+**Referência ABNT:** CASPI, A. et al. A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care. **Nature Mental Health**, p. 1–9, 19 set. 2024.
 
->
+‌
 
+**Referência Vancouver:** Caspi A, Houts RM, Moffitt TE, Richmond-Rakerd LS, Hanna MR, Sunde HF, et al. A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care. Nature Mental Health [Internet]. 2024 Sep 19;1–9. Available from: https://www.nature.com/articles/s44220-024-00310-5
 
-**Referência ABNT:**
-
-**Referência Vancouver:**
+‌
