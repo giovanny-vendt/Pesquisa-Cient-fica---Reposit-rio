@@ -33,12 +33,25 @@ keywords: [[atenção primária]], [[cuidado de saúde mental]]
 
 **Resultados:**
 
->
+> Cerca de 4.875.722 pessoas foram registradas dentro do sistema de saúde analisado.  Os pacientes dentro das categorias de saúde mental apresentavam amplitude de dificuldades psicológicas; crianças estavam mais associadas a distúrbios de sono, incontinência e ADHD; jovens e jovens-adultos a depressão e idosos a perda de memória e distúrbios de sono. Observe a tabela abaixo:
+
+![[Pasted image 20260105102249.png]]
+
+> De todos os encontros na atenção primária, 11,7% envolviam condições de saúde mental, primárias ou secundárias.
+
+> [!PDF|important] [[A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care.pdf#page=4&selection=14,14,20,51&color=important|A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care, p.1211]]
+> >  As shown in Fig. 3a (Supplementary Table 5), of the 41,616,704 mental-health encounters, over one-third involved depression (23.8%) or anxiety (14.1%), followed by sleep disturbances (12.1%), substance abuse (8.3%), acute stress reactions (7.1%), psychosis (6.9%), dementia/memory problems (5.4%), ADHD (3.8%), phobias/compulsive disorders (1.7%), developmental delay/learning problems (1.5%), PTSD (1.3%) and personality disorder (1,1%)
+
+> Já em comparação a outros núcleos do ICPC2, os únicos sistema corporal que superou a incidência de patologias psiquiátricas foi o musculoesquelético, com 17,4% de prevalência, e cardiovascular, com 12,1%. Veja o gráfico a seguir:
+
+![[Pasted image 20260105102945.png]]
+
 
 
 **Síntese de discussão e conclusões:**
 
->
+> Esse estudo foi capaz de cumprir com seus objetivos, e identificou as principais relações dispostas com a saúde mental e o cuidado primário da saúde.
+> Devido à análise contar com um grupo amostral total de 350 milhões de encontros na Noruega, a base de dados é bem ampla. Foi denotado a alta prevalência de queixas e morbidades em saúde mental, porém, existem questões que devem ser analisadas. Por um lado, o valor percentual desses encontros pode estar superestimada porque patologias neurogenerativas podem ser ade
 
 
 **Informações adicionais**
