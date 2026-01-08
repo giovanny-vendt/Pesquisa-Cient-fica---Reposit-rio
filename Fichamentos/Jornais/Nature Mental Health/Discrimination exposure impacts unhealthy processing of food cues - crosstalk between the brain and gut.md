@@ -5,9 +5,9 @@
 
 Autores: [[Xiaobei Zhang]], [[Hao Wang]], [[Lisa A. Kilpatrick]], [[Tien S. Dong]], [[Gilbert C. Gee]], [[Jennifer S. Labus]],[[Vadim Osadchiy]], [[Hiram Beltran-Sanchez]], [[May C. Wang]], [[Allison Vaughan]] & [[Arpana Gupta]]
 
-Tipo:
+Tipo: artigo original
 
-keywords:
+keywords: 
 
 
 ******
