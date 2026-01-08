@@ -6,7 +6,7 @@ Autores: [[Elizabeth A. Quinn]], [[Emma Millard]] & [[Janelle M. Jones]]
 
 Tipo: Revisão Sistemática
 
-keywords: [[intervenção artística]], [[terapia ocupacional]], [[depressão]], [[ansiedade]]
+keywords: [[intervenção artística]], [[terapia ocupacional]], [[Depressão]], [[ansiedade]]
 
 
 ******

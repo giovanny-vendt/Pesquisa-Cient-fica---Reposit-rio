@@ -14,10 +14,10 @@ keywords: [[Escrita científica]], [[design de pesquisa]], [[metodologia de pesq
 
 Objetivos:
 
-> [!PDF|red] [[How to Write the Methods Section of a Research Manuscript.pdf#page=1&selection=13,0,15,90&color=red|How to Write the Methods Section of a Research Manuscript, p.1763]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/How to Write the Methods Section of a Research Manuscript.pdf#page=1&selection=13,0,15,90&color=red|How to Write the Methods Section of a Research Manuscript, p.1763]]
 > > The methods section of a manuscript is one of the most important parts of a research paper because it provides information on the validity of the study and credibility of the results. Inadequate description of the methods has been reported as one of the main reasons for manuscript rejection.
 
-> [!PDF|red] [[How to Write the Methods Section of a Research Manuscript.pdf#page=2&selection=32,0,35,20&color=red|How to Write the Methods Section of a Research Manuscript, p.1764]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/How to Write the Methods Section of a Research Manuscript.pdf#page=2&selection=32,0,35,20&color=red|How to Write the Methods Section of a Research Manuscript, p.1764]]
 > > The purpose of this paper is to describe the different components of the methods section and provide guidance for writing the methods section of a research paper.
 
 
@@ -41,7 +41,7 @@ Síntese de discussão e conclusões:
 > 5) **Procedimentos**: juntamente ao design do estudo, é núcleo para basicamente qualquer tipo de artigo; aqui mora o "passo a passo" já descrito, em ordem cronológica e justificativa, medidas e dados a serem coletados.
 > 6) **Análise estatística**: normalmente a última parte da metodologia, envolve a descrição de como os dados e informações coletadas através dos passos anteriores serão interpretados e analisados. Inclui métodos estatísticos, ferramentas de análise qualitativas e critérios de avaliação.
 > 
-> Descrições detalhadas sobre cada procedimento estão neste [link](![[How to Write the Methods Section of a Research Manuscript.pdf#page=7&rect=30,55,296,718&color=red|How to Write the Methods Section of a Research Manuscript, p.1769]])
+> Descrições detalhadas sobre cada procedimento estão neste [link](![[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/How to Write the Methods Section of a Research Manuscript.pdf#page=7&rect=30,55,296,718&color=red|How to Write the Methods Section of a Research Manuscript, p.1769]])
 
 
 Informações adicionais

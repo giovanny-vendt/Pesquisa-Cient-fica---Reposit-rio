@@ -13,7 +13,7 @@ keywords: [[Depressão]], [[Solidão]], [[network analysis]], [[ruminação de s
 
 Objetivos:
 
-> [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=2&selection=99,0,103,63&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.47]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A network analysis of rumination on loneliness and the relationship with depression.pdf#page=2&selection=99,0,103,63&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.47]]
 > > the present study will take a first step to examine the relationship between specific loneliness items, rumination items and individual depressive symptoms
 > 
 > 
@@ -22,10 +22,10 @@ Objetivos:
 
 Metodologia:
 
-> [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=2&selection=104,6,104,60&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.47]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A network analysis of rumination on loneliness and the relationship with depression.pdf#page=2&selection=104,6,104,60&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.47]]
 > > a network analysis approach in a cross-sectional study
 
-> [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=3&selection=12,31,18,45&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.48]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A network analysis of rumination on loneliness and the relationship with depression.pdf#page=3&selection=12,31,18,45&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.48]]
 > > First, we aim to establish the relationship between loneliness, rumination and depression using their total scores to confirm the mediation effects of rumination, in line with previous research. Second, to achieve a more in-depth understanding of the relationship, we will construct a network of loneliness and depressive symptoms and a network of loneliness, rumination and depressive symptoms using more specific items
 > 
 > 
@@ -49,10 +49,10 @@ Metodologia:
 
 Resultados:
 
-> [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=3&selection=49,0,50,66&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.48]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A network analysis of rumination on loneliness and the relationship with depression.pdf#page=3&selection=49,0,50,66&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.48]]
 > > Spearman’s correlations suggest that loneliness, rumination and depression are significantly positively correlated with each other
 
-> [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=128,0,134,69&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=128,0,134,69&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
 > > Our two major hypotheses were satisfied by the study. First, in the mediation model, rumination indeed mediated the relationship between loneliness and depression. Our second hypothesis was also satisfied. In the loneliness–depression network, the present study did not reveal stable bridge symptoms due to the poor reliability of the bridge centrality indices. The instability of the loneliness–depression only network means that the two constructs are not the whole picture.
 > 
 > 
@@ -79,14 +79,14 @@ Resultados:
 
 Síntese de conclusões:
 
-> [!PDF|red] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=137,26,141,30&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=137,26,141,30&color=red|A network analysis of rumination on loneliness and the relationship with depression, p.49]]
 > > in the present study, the loneliness–depression network indicated that the activation of the loneliness community alone is not stably associated with the manifestation of specific depressive symptoms. 
 > 
 > 
 
 > Na rede solidão-ruminação-depressão, a principal ponte entre elementos foi o termo L4, de pergunta "você se sente frequentemente sozinho?", e R1, "ruminação da solidão".
 
-> [!PDF|important] [[A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=162,34,171,53&color=important| A hipótese da ruminação]]
+> [!PDF|important] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A network analysis of rumination on loneliness and the relationship with depression.pdf#page=4&selection=162,34,171,53&color=important| A hipótese da ruminação]]
 > > In our study, the maladaptive way of coping with the stressor—in this case, ruminating on the loneliness feelings—can be the reason why loneliness can result in the development of further depressive symptoms. Especially during the pandemic, due to the Chinese government’s compulsory implementation of social distancing policies, people had less chance to gather with their socially significant others and form or maintain their social bonds in person. Social activities are especially important for younger adults (the primary participants of the present study), who require a larger amount of social connection with their friends and colleague
 
 

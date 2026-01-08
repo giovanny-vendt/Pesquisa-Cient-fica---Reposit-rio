@@ -13,7 +13,7 @@ keywords: [[atenção primária]], [[cuidado de saúde mental]]
 
 **Objetivos:**
 
-> [!PDF|red] [[A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care.pdf#page=2&selection=44,0,48,74&color=red|A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care, p.1209]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care.pdf#page=2&selection=44,0,48,74&color=red|A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care, p.1209]]
 > > To provide information about the volume of mental-health condi tions in primary care, we turned to a unique data source: all primarycare records in the health system of an entire nation where cost barriers do not generate bias in the subset of unwell individuals who seek care. These are administrative data from Norway, where all residents are assigned a PCP
 
 > É fato que a atenção primária possui focos de atenção, que dominam porcentagens diferentes da força de trabalho dos profissionais desse tipo de cuidado. Entre os 15 núcleos de atenção determinados pelo ICPC2 ( International Classification of Primary Care), a saúde mental está inclusa como uma das mais prevalentes causas de entrada no sistema de saúde na Europa e, potencialmente, no mundo. Contudo, não há um dado preciso sobre quanto esse tipo de queixa ocupa o cuidado de atenção primária. 
@@ -22,7 +22,7 @@ keywords: [[atenção primária]], [[cuidado de saúde mental]]
 
 **Metodologia:**
 
-> [!PDF|red] [[A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care.pdf#page=7&selection=185,0,192,67&color=red|A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care, p.1214]]
+> [!PDF|red] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care.pdf#page=7&selection=185,0,192,67&color=red|A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care, p.1214]]
 > > This population-based study included 4,875,722 individuals (2,433,978 males; 2,441,744 females) born in Norway between February 1905 and December 2017 who were full-time residents in Norway from January 2006 until December 2019 or until they died, as identified in the Norwegian Population Register. Ethics approval was approved from the Regional Committee for Research Ethics South East Norway (REK South East) and the Arts and Sciences Institutional Review Board at Duke University (2022-0260).
 
 
@@ -39,7 +39,7 @@ keywords: [[atenção primária]], [[cuidado de saúde mental]]
 
 > De todos os encontros na atenção primária, 11,7% envolviam condições de saúde mental, primárias ou secundárias.
 
-> [!PDF|important] [[A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care.pdf#page=4&selection=14,14,20,51&color=important|A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care, p.1211]]
+> [!PDF|important] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care.pdf#page=4&selection=14,14,20,51&color=important|A nationwide analysis of 350 million patient encounters reveals a high volume of mental-health conditions in primary care, p.1211]]
 > >  As shown in Fig. 3a (Supplementary Table 5), of the 41,616,704 mental-health encounters, over one-third involved depression (23.8%) or anxiety (14.1%), followed by sleep disturbances (12.1%), substance abuse (8.3%), acute stress reactions (7.1%), psychosis (6.9%), dementia/memory problems (5.4%), ADHD (3.8%), phobias/compulsive disorders (1.7%), developmental delay/learning problems (1.5%), PTSD (1.3%) and personality disorder (1,1%)
 
 > Já em comparação a outros núcleos do ICPC2, os únicos sistema corporal que superou a incidência de patologias psiquiátricas foi o musculoesquelético, com 17,4% de prevalência, e cardiovascular, com 12,1%. Veja o gráfico a seguir:
