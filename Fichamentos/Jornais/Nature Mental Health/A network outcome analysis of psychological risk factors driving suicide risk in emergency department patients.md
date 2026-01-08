@@ -17,7 +17,9 @@ keywords: [[network analysis]], [[suicídio]], [[fatores de risco psicológicos]
 > > The present study uses a novel network analysis approach, namely network outcome analysis21 , to examine predictive associations between a range of different psychological factors and the development of suicidal ideation, suicide plans, and suicide attempts. A crucial benefit of network analysis concerns the separation of direct effects (for example, edge between impulsivity and suicidal ideation) and indirect effects (for example, association between impulsivity and suicidal ideation through other cognitions)21 . Based on prior research, we predicted that hopelessness, burdensomeness, lack of belongingness, entrapment, and identification with death would be the strongest proximate predictors of suicide-related outcomes.
 
 
-> Suicídio é uma das causas mais comuns de morte, e a suas causas são teorizadas de maneira diferentes, visando a capacidade de prever esse tipo de comportamento. A [teoria interpessoal do suicídio]()
+> Suicídio é uma das causas mais comuns de morte, e a suas causas são teorizadas de maneira diferentes, visando a capacidade de prever esse tipo de comportamento. A [teoria interpessoal do suicídio](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FThe%20Interpersonal%20Theory%20of%20Suicide.pdf)
+
+
 
 
 **Metodologia:**
