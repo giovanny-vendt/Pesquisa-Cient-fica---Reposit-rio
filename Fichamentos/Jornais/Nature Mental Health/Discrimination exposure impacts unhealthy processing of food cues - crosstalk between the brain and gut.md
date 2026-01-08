@@ -7,12 +7,14 @@ Autores: [[Xiaobei Zhang]], [[Hao Wang]], [[Lisa A. Kilpatrick]], [[Tien S. Dong
 
 Tipo: artigo original
 
-keywords: 
+keywords: [[comida processada]], [[saúde mental]], [[preconceito]], [[discriminação]]
 
 
 ******
 
 **Objetivos:**
+
+
 
 >
 
