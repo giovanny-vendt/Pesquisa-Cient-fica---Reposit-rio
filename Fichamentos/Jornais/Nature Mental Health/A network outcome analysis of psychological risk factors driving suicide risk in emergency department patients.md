@@ -47,14 +47,21 @@ keywords: [[network analysis]], [[suicídio]], [[fatores de risco psicológicos]
 
 **Síntese de discussão e conclusões:**
 
->
+> A associação explicita com a morte foi o principal fator de risco reconhecido e ele aparece como uma ponte entre os outros estados mentais situados no gráfico. 
+> A idealização suicida estava associada ao sentimento de não pertencimento e cansaço extremo. 
 
 
 **Informações adicionais**
 
 > Lei sobre as teorias do suicídio disposta nas referências 3, 4 e 5 do artigo
+> 
+> Link para material suplementar: https://static-content.springer.com/esm/art%3A10.1038%2Fs44220-025-00389-4/MediaObjects/44220_2025_389_MOESM1_ESM.pdf
 
 
-**Referência ABNT:**
+**Referência ABNT:** RENÉ FREICHEL; NOCK, M. K.; O’SHEA, B. A. A network outcome analysis of psychological risk factors driving suicide risk in emergency department patients. **Nature Mental Health**, 20 fev. 2025.
 
-**Referência Vancouver:**
+
+
+**Referência Vancouver:** René Freichel, Nock MK, O’Shea BA. A network outcome analysis of psychological risk factors driving suicide risk in emergency department patients. Nature Mental Health [Internet]. 2025 Feb 20 [cited 2025 Feb 24]; Available from: https://www.nature.com/articles/s44220-025-00389-4
+
+‌
