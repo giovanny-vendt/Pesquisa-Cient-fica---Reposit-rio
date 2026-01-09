@@ -30,12 +30,19 @@ keywords: [[network analysis]], [[suicídio]], [[fatores de risco psicológicos]
 > 
 
 > Resumidamente, a coleta de dados foi realizada através de um questionário aplicado nos hospitais universitários de Harvard e Massachusetts.
-> Foram medidos as variáveis **resultados relacionados ao suicídio** (derivados da [entrevista  de comṕortamentos e pensamentos autolesivos](Nock, M. K., Holmberg, E. B., Photos, V. I. & Michel, B. D. Selfinjurious thoughts and behaviors interview: development, reliability, and validity in an adolescent sample. Psychol. Assess. 19, 309–317 (2007))), **constructos psicológicos** (reatividade emocional), **associação explícita à morte** e **Death IAT**
+> Foram medidos as variáveis **resultados relacionados ao suicídio** (derivados da [entrevista  de comṕortamentos e pensamentos autolesivos](Nock, M. K., Holmberg, E. B., Photos, V. I. & Michel, B. D. Selfinjurious thoughts and behaviors interview: development, reliability, and validity in an adolescent sample. Psychol. Assess. 19, 309–317 (2007))), **constructos psicológicos** (reatividade emocional, desesperança, aprisionamento, ansiedade e agitação, impulsividade, cansaço extremo, não pertencimento, não ter medo da morte e sentido à vida), **associação explícita à morte** (escala de 0 a 100 de pertencimento) e **Death IAT** (versão resumida da esta [ferramenta](obsidian://open?vault=Pesquisa%20Cient%C3%ADfica&file=Pesquisa-Cient-fica---Reposit-rio%2FArtigos%2FRefer%C3%AAncias%2FFerramentas%2FThe%20Brief%20Death%20Implicit%20Association%20Test%3A%20Scoring.pdf)).
+> A análise de network foi realizada através de uma mistura de modelos gráficos.
 
 
 **Resultados:**
 
->
+> [!PDF|important]- [[A network outcome analysis of psychological risk factors driving suicide risk in emergency department patients.pdf#page=3&selection=7,26,28,29&color=important| Característica da amostra coletada]]
+> > All psychological factors (description in Methods) were evaluated at baseline, while all suicide-related outcomes (that is, ideation, suicide plan, attempt) were assessed during both follow-up surveys. The sample at baseline (n = 1,412) was predominantly male (54.32%; female, 43.96%; transgender, 1.72%), young (M = 34.95, s.d. = 13.57) and relatively diverse with respect to ethnicity and race (non-Hispanic white, 68.0%; non-Hispanic African American, 7.22%; Hispanic other, 7.15%; non-Hispanic other, 6.22%; Hispanic white, 5.79%; non-Hispanic Asian, 3.86%; and other race or ethnicity, 1.76%). At the 1-month follow-up survey, there were complete data for reports of suicidal ideation for 900 participants (63.74%). By the 6-month follow-up, 938 participants (66.43%) completed reports on measures of suicidal ideation. A supplemental analysis (Supplementary Table 3) showed that older age, female gender, lower income and a lifetime history of a suicide attempt were significantly associated with slight increases in the likelihood of dropout.
+> 
+> 
+
+> A análise do gráfico identificou consistência na associação direta à morte com as outras variáveis. Acresce que o não pertencimento mostrou confluências diretas à tentativas de suicídio. 
+> A diferença significativa de casos de planejamento de suicídio e tentativa de suicídio se demostrou num aumento entre os links dos vértices "sem propósito", "desesperança" e "tempo está acabando", assim como o enfraquecimento do link entre "plano suicída" e "associação explicita com a morte". 
 
 
 **Síntese de discussão e conclusões:**
