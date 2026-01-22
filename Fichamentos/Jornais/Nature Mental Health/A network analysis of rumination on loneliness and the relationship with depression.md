@@ -90,6 +90,10 @@ Síntese de conclusões:
 > > In our study, the maladaptive way of coping with the stressor—in this case, ruminating on the loneliness feelings—can be the reason why loneliness can result in the development of further depressive symptoms. Especially during the pandemic, due to the Chinese government’s compulsory implementation of social distancing policies, people had less chance to gather with their socially significant others and form or maintain their social bonds in person. Social activities are especially important for younger adults (the primary participants of the present study), who require a larger amount of social connection with their friends and colleague
 
 
+**Lacunas de conhecimento**
+
+>
+
 
 informações adicionais:
 

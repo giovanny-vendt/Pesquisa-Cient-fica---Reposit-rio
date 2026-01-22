@@ -48,6 +48,10 @@ keywords: [[circuito neural]], [[atividade física]], [[Solidão]]
 > 
 > 
 
+**Lacunas de conhecimento**
+
+>
+
 
 **Informações adicionais**
 

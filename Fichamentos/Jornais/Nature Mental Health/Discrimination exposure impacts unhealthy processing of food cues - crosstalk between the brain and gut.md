@@ -34,6 +34,11 @@ keywords: [[comida processada]], [[saúde mental]], [[preconceito]], [[discrimin
 >
 
 
+**Lacunas de conhecimento**
+
+>
+
+
 **Informações adicionais**
 
 >

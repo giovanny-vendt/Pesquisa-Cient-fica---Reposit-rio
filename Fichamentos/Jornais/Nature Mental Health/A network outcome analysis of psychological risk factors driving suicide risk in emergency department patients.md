@@ -50,6 +50,10 @@ keywords: [[network analysis]], [[suicídio]], [[fatores de risco psicológicos]
 > A associação explicita com a morte foi o principal fator de risco reconhecido e ele aparece como uma ponte entre os outros estados mentais situados no gráfico. 
 > A idealização suicida estava associada ao sentimento de não pertencimento e cansaço extremo. 
 
+**Lacunas de conhecimento**
+
+>
+
 
 **Informações adicionais**
 

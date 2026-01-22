@@ -80,9 +80,10 @@ Síntese de discussão e conclusões:
 > [!PDF|important] [[Pesquisa-Cient-fica---Reposit-rio/Fichamentos/Versões em PDF/Economic evaluation of 27,540 patients with mood and anxiety disorders and the importance of waiting time and clinical effectiveness in mental healthcare.pdf#page=7&selection=78,0,87,70&color=important|Conclusão]]
 > > We have used large robust real-world healthcare data to understand the costs associated with treating mental health conditions. Our analysis highlights the key healthcare and human costs from waiting times and treatment duration. Treatment costs are generally outweighed by the increased draw on other medical services, and in the loss of healthrelated quality of life that comes from poor mental health. This highlights that the substantive costs of mental health conditions are driven by not intervening in an adequate or timely manner. Internet-delivered CBT provides one means of reducing waiting times and quickening the pace of a patient’s recovery, with similar treatment effectiveness
 
-> 
-> 
 
+**Lacunas de conhecimento**
+
+>
 
 Informações adicionais
 
