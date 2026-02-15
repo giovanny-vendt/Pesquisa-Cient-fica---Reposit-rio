@@ -21,3 +21,4 @@ campo atual:
 lacunas viáveis:
 
 
+
